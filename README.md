@@ -13,3 +13,5 @@
 **MENTOR NAME** : Neela Santhosh Kumar
 
 **RESOURCES** : TINKERCAD SOFTWARE AND AI
+
+**OUTPUT** : https://github.com/user-attachments/assets/72cbbbe0-88a3-4c5f-947c-cf596fd335c3
